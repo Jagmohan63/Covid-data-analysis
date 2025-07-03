@@ -47,9 +47,8 @@ This project is licensed under the MIT License.
 
 ---
 
-🙋‍♂️ Author
-
-Your Name
+🙋‍♂️ Author : JAGMOHAN
 
 GitHub: Jagmohan63
+
 LinkedIn: https://www.linkedin.com/in/jagmohan-jakhar-23b524315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
