@@ -39,3 +39,17 @@ This project analyzes real-world COVID-19 data to explore trends, identify high-
    ```bash
    git clone https://github.com/your-username/covid-data-analysis.git
    cd covid-data-analysis
+   
+📜 License
+
+This project is licensed under the MIT License.
+
+
+---
+
+🙋‍♂️ Author
+
+Your Name
+
+GitHub: Jagmohan63
+LinkedIn: https://www.linkedin.com/in/jagmohan-jakhar-23b524315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
