@@ -1,0 +1,7 @@
+Date,Country,Confirmed,Recovered,Deaths
+2020-03-01,India,3,0,0
+2020-03-02,India,5,1,0
+2020-03-03,India,10,2,1
+2020-03-01,USA,50,10,1
+2020-03-02,USA,80,20,2
+2020-03-03,USA,120,30,3
